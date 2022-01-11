@@ -1,0 +1,25 @@
+.banner {
+    text-align: center;
+    color: orangered;
+    background-color: black;
+}
+
+.bannerImage {
+    align-content: flex-start;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: orangered;
+}
+
+@media screen and (max-width: 456px) {
+    img {
+         width: 100px;
+         height: 100px;
+    }
+}
